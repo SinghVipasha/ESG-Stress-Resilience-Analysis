@@ -54,7 +54,3 @@ Do high-ESG firms experience smaller losses during market downturns compared to 
 ##  Author
 
 Vipasha Singh
-
-## 📄 Related Paper
-
-Available on ResearchGate: <add link>
